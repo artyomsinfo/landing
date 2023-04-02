@@ -1,0 +1,7 @@
+img#logo-banner {
+    width: 250px;
+    position: absolute;
+    top: 35px;
+    left: 25px;
+    opacity: 0.95;
+}

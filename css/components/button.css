@@ -1,0 +1,20 @@
+a {
+    display: block;
+    align-self: center;
+    background-color: rgba(155, 4, 35, 0.75);
+    border-radius: 15px;
+    width: 125px;
+    height: 6%;
+    text-decoration: none;
+    font-size: 150%;
+    color: rgba(255, 255, 255, 1);
+    margin-top: auto;
+    margin-bottom: 5px;
+    transition: 0.2s;
+}
+
+a:hover {
+    font-size: 175%;
+    width: 145px;
+    height: 6.5%;
+}
